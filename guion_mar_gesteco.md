@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_invernaderos_gesteco/blob/main/images/invernaderos.JPG?raw=true) 
+![portada](https://github.com/aprendiendo-cosas/C_mar_gesteco/blob/main/images/entinas.jpg?raw=true) 
 
 ## Ubicación
 
@@ -18,23 +18,20 @@ Las explotaciones agrarias intensivas que hemos visto en los invernaderos se enc
 
 
 ## Objetivos docentes
-+ Refrescar los diferentes tipos de relaciones entre organismos y su relación con la generación de servicios ecosistémicos
-+ Reflexionar sobre los impactos ecológicos de diferentes formas de gestionar el suelo
-+ Aprender sobre cierre de ciclos, especialmente de carbono y nitrógeno
++ Reconocer cómo los espacios protegidos actúan como “trincheras” en ocasiones.
++ Ver in situ el efecto de la fragmentación del territorio.
++ Constatar (de nuevo) cómo de importante es diseñar procedimientos de gestión integral de los (socio)ecosistemas.
 
 ## Anclajes conceptuales
 
 Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
-- ecología de suelos
-- ciclos biogeoquímicos
-- interacciones predador-presa
-- compostaje
-- agricultura intensiva
+- Biogeografía de islas. Fragmentación de hábitats.
+- Gestión de ecosistemas marinos.
 
 
 
-## Comentarios o reflexiones "al vuelo" (#invernaderos)
+## Comentarios o reflexiones "al vuelo" (#mar)
 
 
 

@@ -35,3 +35,12 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 
+Nadie comentó nada aquí :(
+
+## Algunas fotos
+
+![1](https://github.com/aprendiendo-cosas/C_mar_gesteco/blob/main/images/1.JPG?raw=true) 
+
+![2](https://github.com/aprendiendo-cosas/C_mar_gesteco/blob/main/images/2.JPG?raw=true) 
+
+![3](https://github.com/aprendiendo-cosas/C_mar_gesteco/blob/main/images/3.JPG?raw=true) 
